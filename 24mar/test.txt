@@ -1,0 +1,12 @@
+Anuj Preetham
+BTech CSE(AI&ML)
+I'm a student
+I am from Bangalore
+inserted line above cursor using O, appending this to end of line usng O 
+this line shall be copied and pasted using yy, p, and P
+inserted bottom line usi
+
+all changes seen above compared to previous task were done using x, dd, and d$
+this line shall be copied and pasted using yy, p, and P
+
+this line shall be copied and pasted using yy, p, and P
